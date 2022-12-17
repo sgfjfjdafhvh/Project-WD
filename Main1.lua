@@ -33,7 +33,7 @@ local ids = {
     6901575446,
     6986372023
  }
-if game.PlaceId == 6284583030 or game.PlaceId == 7722306047 or game.PlaceId == 10321372166 then
+if game.PlaceId == 6284583030 or game.PlaceId == 7722306047 or game.PlaceId == 10321372166 or game.PlaceId == 11725212117 then
     loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/scripts/PSX.lua"))()
 elseif game.PlaceId == 9872472334 or game.PlaceId == 10324346056 or game.PlaceId == 10662542523 or game.PlaceId == 10324347967 or game.PlaceId == 10539706691 or game.PlaceId == 10808838353 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/scripts/Evade.lua"))()
