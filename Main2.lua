@@ -50,4 +50,6 @@ elseif game.PlaceId == 10675066724 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/scripts/SlimeTycoon.lua"))()
 elseif table.find(ids, game.PlaceId) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/scripts/Shindo.lua"))()
+elseif game.PlaceId == 4490140733 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/scripts/MyRestaurant.lua"))()
 end
