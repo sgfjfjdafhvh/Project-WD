@@ -54,4 +54,6 @@ elseif game.PlaceId == 4490140733 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/scripts/MyRestaurant.lua"))()
 elseif game.PlaceId == 13127800756 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/scripts/aws.lua"))()
+elseif game.PlaceId == 14236123211 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/scripts/punchsim.lua"))()
 end
